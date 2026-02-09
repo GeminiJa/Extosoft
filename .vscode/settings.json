@@ -1,0 +1,5 @@
+{
+  "css.customData": [".vscode/tailwindcss.json"],
+  "scss.customData": [".vscode/tailwindcss.json"],
+  "less.customData": [".vscode/tailwindcss.json"]
+}

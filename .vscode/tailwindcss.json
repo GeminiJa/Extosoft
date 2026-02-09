@@ -1,0 +1,33 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@tailwind",
+      "description": "Injects Tailwind's base, components, or utilities styles."
+    },
+    {
+      "name": "@apply",
+      "description": "Inline utility classes into custom CSS."
+    },
+    {
+      "name": "@layer",
+      "description": "Define styles within base, components, or utilities layers."
+    },
+    {
+      "name": "@screen",
+      "description": "Generate responsive variants using configured breakpoints."
+    },
+    {
+      "name": "@responsive",
+      "description": "Generate responsive variants for a set of utilities."
+    },
+    {
+      "name": "@variants",
+      "description": "Generate variant versions of a set of utilities."
+    },
+    {
+      "name": "@config",
+      "description": "Specify a custom Tailwind config file."
+    }
+  ]
+}
